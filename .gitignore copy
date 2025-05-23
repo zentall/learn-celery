@@ -1,0 +1,10 @@
+# 環境関連
+.venv
+.vscode
+.env
+
+# Python関連
+__pycache__
+*.pyc
+
+# PJ個別
