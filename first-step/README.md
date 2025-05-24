@@ -4,7 +4,7 @@
 docker compose up
 ```
 
-- cewleryワーカーの起動
+- celeryワーカーの起動
 ```bash
 celery -A tasks worker --loglevel=INFO
 ```
